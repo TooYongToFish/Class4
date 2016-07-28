@@ -15,7 +15,6 @@
 		8FAF0C2A1D49F9A00082988F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FAF0C291D49F9A00082988F /* Assets.xcassets */; };
 		8FAF0C2D1D49F9A00082988F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FAF0C2B1D49F9A00082988F /* LaunchScreen.storyboard */; };
 		8FAF0C381D49F9A10082988F /* GITGITTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAF0C371D49F9A10082988F /* GITGITTests.m */; };
-		8FAF0C441D49FCBC0082988F /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAF0C431D49FCBC0082988F /* Student.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,8 +43,6 @@
 		8FAF0C331D49F9A10082988F /* GITGITTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GITGITTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FAF0C371D49F9A10082988F /* GITGITTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GITGITTests.m; sourceTree = "<group>"; };
 		8FAF0C391D49F9A10082988F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8FAF0C421D49FCBC0082988F /* Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
-		8FAF0C431D49FCBC0082988F /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +94,6 @@
 				8FAF0C2E1D49F9A00082988F /* Info.plist */,
 				8FAF0C1D1D49F9A00082988F /* Supporting Files */,
 				37D65EF51D49FB120009E5D7 /* Person.h */,
-				8FAF0C421D49FCBC0082988F /* Student.h */,
-				8FAF0C431D49FCBC0082988F /* Student.m */,
 				37D65EF61D49FB120009E5D7 /* Person.m */,
 			);
 			path = GITGIT;
@@ -223,7 +218,6 @@
 			files = (
 				8FAF0C251D49F9A00082988F /* ViewController.m in Sources */,
 				8FAF0C221D49F9A00082988F /* AppDelegate.m in Sources */,
-				8FAF0C441D49FCBC0082988F /* Student.m in Sources */,
 				37D65EF71D49FB120009E5D7 /* Person.m in Sources */,
 				8FAF0C1F1D49F9A00082988F /* main.m in Sources */,
 			);
