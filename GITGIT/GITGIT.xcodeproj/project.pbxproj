@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37D65EF71D49FB120009E5D7 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 37D65EF61D49FB120009E5D7 /* Person.m */; };
 		8FAF0C1F1D49F9A00082988F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAF0C1E1D49F9A00082988F /* main.m */; };
 		8FAF0C221D49F9A00082988F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAF0C211D49F9A00082988F /* AppDelegate.m */; };
 		8FAF0C251D49F9A00082988F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAF0C241D49F9A00082988F /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		37D65EF51D49FB120009E5D7 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		37D65EF61D49FB120009E5D7 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		8FAF0C1A1D49F9A00082988F /* GITGIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GITGIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FAF0C1E1D49F9A00082988F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8FAF0C201D49F9A00082988F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -90,6 +93,8 @@
 				8FAF0C2B1D49F9A00082988F /* LaunchScreen.storyboard */,
 				8FAF0C2E1D49F9A00082988F /* Info.plist */,
 				8FAF0C1D1D49F9A00082988F /* Supporting Files */,
+				37D65EF51D49FB120009E5D7 /* Person.h */,
+				37D65EF61D49FB120009E5D7 /* Person.m */,
 			);
 			path = GITGIT;
 			sourceTree = "<group>";
@@ -213,6 +218,7 @@
 			files = (
 				8FAF0C251D49F9A00082988F /* ViewController.m in Sources */,
 				8FAF0C221D49F9A00082988F /* AppDelegate.m in Sources */,
+				37D65EF71D49FB120009E5D7 /* Person.m in Sources */,
 				8FAF0C1F1D49F9A00082988F /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -402,6 +408,7 @@
 				8FAF0C3E1D49F9A10082988F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8FAF0C3F1D49F9A10082988F /* Build configuration list for PBXNativeTarget "GITGITTests" */ = {
 			isa = XCConfigurationList;
@@ -410,6 +417,7 @@
 				8FAF0C411D49F9A10082988F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
