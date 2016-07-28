@@ -10,4 +10,8 @@
 
 @implementation Person
 
+-(void)eat {
+    NSLog(@"asdf");
+}
+
 @end
