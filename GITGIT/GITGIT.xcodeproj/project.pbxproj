@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		37D65EF71D49FB120009E5D7 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 37D65EF61D49FB120009E5D7 /* Person.m */; };
+		37D65EFA1D49FBE60009E5D7 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 37D65EF91D49FBE60009E5D7 /* Student.m */; };
 		8FAF0C1F1D49F9A00082988F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAF0C1E1D49F9A00082988F /* main.m */; };
 		8FAF0C221D49F9A00082988F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAF0C211D49F9A00082988F /* AppDelegate.m */; };
 		8FAF0C251D49F9A00082988F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAF0C241D49F9A00082988F /* ViewController.m */; };
@@ -30,6 +31,8 @@
 /* Begin PBXFileReference section */
 		37D65EF51D49FB120009E5D7 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		37D65EF61D49FB120009E5D7 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		37D65EF81D49FBE60009E5D7 /* Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
+		37D65EF91D49FBE60009E5D7 /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
 		8FAF0C1A1D49F9A00082988F /* GITGIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GITGIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FAF0C1E1D49F9A00082988F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8FAF0C201D49F9A00082988F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -95,6 +98,8 @@
 				8FAF0C1D1D49F9A00082988F /* Supporting Files */,
 				37D65EF51D49FB120009E5D7 /* Person.h */,
 				37D65EF61D49FB120009E5D7 /* Person.m */,
+				37D65EF81D49FBE60009E5D7 /* Student.h */,
+				37D65EF91D49FBE60009E5D7 /* Student.m */,
 			);
 			path = GITGIT;
 			sourceTree = "<group>";
@@ -218,6 +223,7 @@
 			files = (
 				8FAF0C251D49F9A00082988F /* ViewController.m in Sources */,
 				8FAF0C221D49F9A00082988F /* AppDelegate.m in Sources */,
+				37D65EFA1D49FBE60009E5D7 /* Student.m in Sources */,
 				37D65EF71D49FB120009E5D7 /* Person.m in Sources */,
 				8FAF0C1F1D49F9A00082988F /* main.m in Sources */,
 			);
